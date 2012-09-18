@@ -1,0 +1,5 @@
+(Smiles, [3, 4])
+
+ -> reduces via WordCountReducer to -> 
+
+(Smiles, 7)

@@ -1,0 +1,13 @@
+[cat cat dog]
+
+ -> maps via WordCountMapper to -> 
+
+(cat, 1)
+(cat, 1)
+(dog, 1)
+
+
+ -> reduces via WordCountReducer to -> 
+
+(cat, 2)
+(dog, 1)

@@ -65,6 +65,7 @@
         <classifier>tests</classifier>
       </dependency>
 
+
       <dependency>
         <groupId>org.apache.hadoop</groupId>
         <artifactId>hadoop-hdfs</artifactId>
